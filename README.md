@@ -10,9 +10,6 @@ To achieve a cleaner and less repetitive codebase, i have introduced additional 
 Please note that while i use personal information for generating employee ID, it is generally advisable to use more secure and privacy-conscious methods in real world applications. The ID generator that i make is just a demonstration of making a function that can generate a unique identifier.
 
 ---
-To use this you just have to download all the file, then in the code change the value of 'employee_path', 'dept_path', and 'usedID_path'
-
-
 To use this application, follow these simple steps:
   1. Download all the necessary files.
   2. Open the code and navigate to the section where the file paths are defined. Locate the variables: 'employee_path', 'dept_path', and 'usedID_path' in       the 'Main_flow' function.
